@@ -1,4 +1,5 @@
-# pandas_analysis
-Introdução a análise de dados com python.
+# Aulas de pandas  
 
-Uma análise do Preço de Liquidação das Diferenças (PLD) versus Consumo de energia por submercados.
+projects:
+
+> energy_project - Introdução a análise de dados com python. Uma análise do Preço de Liquidação das Diferenças (PLD) versus Consumo de energia por submercados.
